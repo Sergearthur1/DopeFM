@@ -14,6 +14,8 @@ Linux:
 ```bash
 git clone https://github.com/Sergearthur1/DopeFM.git
 cd DopeFM
+mkdir songs
+mkdir playlists
 git submodule update --init --recursive
 python3 -m venv venv
 source venv/bin/activate
@@ -25,6 +27,8 @@ Windows:
 ```bash
 git clone https://github.com/Sergearthur1/DopeFM.git
 cd DopeFM
+mkdir songs
+mkdir playlists
 git submodule update --init --recursive
 python -m venv venv
 .\venv\Scripts\activate
