@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```
 # Launch the application
 Windows: double click on DopeFM_launcher.bat.
+
 Linux: execute DopeFM_launcher.sh with this command:
 ```bash
 .\ DopeFM_launcher.sh
