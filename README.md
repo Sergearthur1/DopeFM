@@ -5,7 +5,6 @@ Streamlit application to listen to Youtube playlist.
 
 Requirements:
 - python >3.10
-- Nvidia GPU with enough ram to do what you need
 - python venv
 - git
 
